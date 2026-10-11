@@ -1,0 +1,6 @@
+depthai-env/
+stereo_depth_ai/
+link_throughput.csv
+mono_only.py
+oak_link_throughput.py
+stereo_only.py
