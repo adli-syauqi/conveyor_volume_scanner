@@ -1,3 +1,7 @@
+# benchmark
+
+This project is a fork from the https://github.com/itbdelaboprogramming/conveyor_volume_scanner.git. The goal is to benchmark the OAK-D Pro to get it's maximum performance for the Conveyor Volume Scanner. 
+
 # Conveyor Volume Scanner
 
 This project is a real-time computer vision script designed for OAK-D stereo cameras (specifically optimized for OAK-D Pro with IR laser support). It uses the DepthAI v3 API to stream synchronized RGB and depth feeds to estimate the volume of objects passing on a conveyor belt.
