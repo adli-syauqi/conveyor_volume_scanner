@@ -5,3 +5,4 @@ mono_only.py
 oak_link_throughput.py
 stereo_only.py
 record/recordings/
+thermal_test/thermal_results
