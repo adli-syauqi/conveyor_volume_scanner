@@ -1,2 +1,3 @@
 run_id,mode,ir_level,t_init_c,t_final_c,t_max_c,duration_s,steady_state_reached,is_stable,spike_detected
 R01_RAW_IR000,RAW,0.0,43.7,50.5,50.6,645,TRUE,TRUE,FALSE
+R02_RAW_IR025,RAW,0.2,49.3,51.7,52.1,285,TRUE,TRUE,FALSE
